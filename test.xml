@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite" >
+    <listeners>
+        <listener class-name="com.nnga.utils.listeners.ReportListener"></listener>
+    </listeners>
+    <test name="TestDEMOQA" >
+        <classes>
+            <class name="com.nnga.projects.testcases.ElementsTest">
+            </class>
+        </classes>
+    </test>
+</suite>
