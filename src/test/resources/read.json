@@ -1,0 +1,23 @@
+{
+  "browser": "chrome",
+  "username": "Admin",
+  "password": "admin123",
+  "reset": "nga123@",
+  "address": [
+    {
+      "street": "Tran Hung Dao",
+      "city": "Ho Chi Minh",
+      "state": "HC"
+    },
+    {
+      "street": "Nguyen Van Linh",
+      "city": "Ho Chi Minh",
+      "state": "NV"
+    },
+    {
+      "street": "Nguyen Tri Phuong",
+      "city": "Ha Noi",
+      "state": "TV"
+    }
+  ]
+}

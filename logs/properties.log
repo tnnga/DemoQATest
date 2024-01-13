@@ -1,0 +1,457 @@
+[INFO ] 11-01-2024 14:55:51 [main] Log - Set up
+[WARN ] 11-01-2024 14:56:00 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 14:56:00 [main] Log - Test text box is false
+[INFO ] 11-01-2024 15:03:53 [main] Log - Set up
+[WARN ] 11-01-2024 15:04:01 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 15:04:02 [main] Log - Test text box is false
+[INFO ] 11-01-2024 15:06:53 [main] Log - Set up
+[WARN ] 11-01-2024 15:07:02 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 15:07:03 [main] Log - Test text box is false
+[INFO ] 11-01-2024 15:08:25 [main] Log - Set up
+[WARN ] 11-01-2024 15:08:55 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 15:08:56 [main] Log - Test text box is false
+[INFO ] 11-01-2024 15:14:19 [main] Log - Set up
+[WARN ] 11-01-2024 15:14:28 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 15:14:29 [main] Log - Test text box is false
+[INFO ] 11-01-2024 15:14:54 [main] Log - Set up
+[WARN ] 11-01-2024 15:15:02 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 15:15:03 [main] Log - Test text box is false
+[INFO ] 11-01-2024 15:25:42 [main] Log - Set up
+[WARN ] 11-01-2024 15:25:51 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 15:25:52 [main] Log - Test text box is false
+[INFO ] 11-01-2024 15:58:08 [main] Log - Set up
+[WARN ] 11-01-2024 15:58:18 [main] Log - gotoElementPage
+[ERROR] 11-01-2024 15:58:19 [main] Log - Test text box is false
+[INFO ] 11-01-2024 16:03:18 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 16:03:18 [main] Log - Set up
+[INFO ] 11-01-2024 16:03:27 [main] Log - gotoElementPage Test is start
+[WARN ] 11-01-2024 16:03:27 [main] Log - gotoElementPage
+[INFO ] 11-01-2024 16:03:28 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 16:03:28 [main] Log - testTextBox Test is start
+[ERROR] 11-01-2024 16:03:28 [main] Log - Test text box is false
+[INFO ] 11-01-2024 16:03:30 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 16:03:30 [main] Log - testCheckBox Test is start
+[INFO ] 11-01-2024 16:03:33 [main] Log - testCheckBox Test is pass.
+[INFO ] 11-01-2024 16:03:33 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 16:03:34 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 16:03:34 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 16:03:36 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 16:03:36 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 16:03:40 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 16:03:40 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 16:03:40 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 16:03:41 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 16:03:41 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 16:03:42 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 16:04:58 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 16:04:58 [main] Log - Set up
+[INFO ] 11-01-2024 16:05:07 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 16:05:07 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 16:05:07 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 16:05:08 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 16:05:08 [main] Log - testCheckBox Test is start
+[ERROR] 11-01-2024 16:05:09 [main] Log - testCheckBox Test is false.
+[INFO ] 11-01-2024 16:05:09 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 16:05:09 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 16:05:09 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 16:05:10 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 16:05:10 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 16:05:12 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 16:05:12 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 16:05:12 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 16:05:12 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 16:05:12 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 16:05:12 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 16:11:50 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 16:11:50 [main] Log - Set up
+[INFO ] 11-01-2024 16:12:00 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 16:12:00 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 16:12:00 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 16:12:01 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 16:12:01 [main] Log - testCheckBox Test is start
+[ERROR] 11-01-2024 16:12:02 [main] Log - testCheckBox Test is false.
+[INFO ] 11-01-2024 16:12:03 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 16:12:03 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 16:12:03 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 16:12:04 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 16:12:04 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 16:12:06 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 16:12:06 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 16:12:06 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 16:12:07 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 16:12:07 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 16:12:08 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 16:24:32 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 16:24:32 [main] Log - Set up
+[INFO ] 11-01-2024 16:24:41 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 16:24:41 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 16:24:41 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 16:24:42 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 16:24:42 [main] Log - testCheckBox Test is start
+[ERROR] 11-01-2024 16:24:43 [main] Log - testCheckBox Test is false.
+[INFO ] 11-01-2024 16:24:44 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 16:24:44 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 16:24:44 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 16:24:45 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 16:24:45 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 16:24:47 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 16:24:47 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 16:24:47 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 16:24:48 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 16:24:48 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 16:24:50 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:05:48 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 17:05:48 [main] Log - Set up
+[INFO ] 11-01-2024 17:06:02 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 17:06:02 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 17:06:02 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 17:06:02 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 17:06:02 [main] Log - testCheckBox Test is start
+[INFO ] 11-01-2024 17:06:03 [main] Log - testCheckBox Test is pass.
+[INFO ] 11-01-2024 17:06:03 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 17:06:04 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 17:06:04 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 17:06:04 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 17:06:04 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 17:06:07 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 17:06:07 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 17:06:07 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 17:06:08 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 17:06:08 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 17:06:10 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:09:08 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 17:09:08 [main] Log - Set up
+[INFO ] 11-01-2024 17:09:17 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 17:09:17 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 17:09:17 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 17:09:17 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 17:09:17 [main] Log - testCheckBox Test is start
+[INFO ] 11-01-2024 17:09:18 [main] Log - testCheckBox Test is pass.
+[INFO ] 11-01-2024 17:09:18 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 17:09:19 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 17:09:19 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 17:09:19 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 17:09:19 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 17:09:22 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 17:09:22 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 17:09:22 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 17:09:23 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 17:09:23 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 17:09:24 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:09:52 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 17:09:52 [main] Log - Set up
+[INFO ] 11-01-2024 17:10:22 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 17:10:22 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 17:10:22 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 17:10:22 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 17:10:22 [main] Log - testCheckBox Test is start
+[INFO ] 11-01-2024 17:10:23 [main] Log - testCheckBox Test is pass.
+[INFO ] 11-01-2024 17:10:23 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 17:10:24 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 17:10:24 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 17:10:24 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 17:10:24 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 17:10:26 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 17:10:26 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 17:10:27 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 17:10:28 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 17:10:28 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 17:10:29 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:39:49 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 17:39:49 [main] Log - Set up
+[INFO ] 11-01-2024 17:39:57 [main] Log - gotoElementPage Test is start
+[ERROR] 11-01-2024 17:39:57 [main] Log - gotoElementPage Test is false.
+[INFO ] 11-01-2024 17:39:59 [main] Log - testTextBox Test is start
+[ERROR] 11-01-2024 17:39:59 [main] Log - testTextBox Test is false.
+[INFO ] 11-01-2024 17:40:00 [main] Log - testCheckBox Test is start
+[ERROR] 11-01-2024 17:40:00 [main] Log - testCheckBox Test is false.
+[INFO ] 11-01-2024 17:40:01 [main] Log - testRadioButton Test is start
+[ERROR] 11-01-2024 17:40:01 [main] Log - testRadioButton Test is false.
+[INFO ] 11-01-2024 17:40:02 [main] Log - testButtons Test is start
+[ERROR] 11-01-2024 17:40:02 [main] Log - testButtons Test is false.
+[INFO ] 11-01-2024 17:40:03 [main] Log - testWebTables Test is start
+[ERROR] 11-01-2024 17:40:03 [main] Log - testWebTables Test is false.
+[INFO ] 11-01-2024 17:40:04 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 17:40:04 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 17:40:06 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 17:40:06 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 17:40:07 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:41:17 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 17:41:17 [main] Log - Set up
+[INFO ] 11-01-2024 17:41:26 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 17:41:26 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 17:41:26 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 17:41:27 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 17:41:27 [main] Log - testCheckBox Test is start
+[INFO ] 11-01-2024 17:41:28 [main] Log - testCheckBox Test is pass.
+[INFO ] 11-01-2024 17:41:28 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 17:41:28 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 17:41:28 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 17:41:29 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 17:41:29 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 17:41:31 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 17:41:31 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 17:41:31 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 17:41:33 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 17:41:33 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 17:41:34 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:43:40 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 17:43:40 [main] Log - Set up
+[INFO ] 11-01-2024 17:43:48 [main] Log - gotoElementPage Test is start
+[INFO ] 11-01-2024 17:43:48 [main] Log - gotoElementPage Test is pass.
+[INFO ] 11-01-2024 17:43:48 [main] Log - testTextBox Test is start
+[INFO ] 11-01-2024 17:43:49 [main] Log - testTextBox Test is pass.
+[INFO ] 11-01-2024 17:43:49 [main] Log - testCheckBox Test is start
+[INFO ] 11-01-2024 17:43:49 [main] Log - testCheckBox Test is pass.
+[INFO ] 11-01-2024 17:43:49 [main] Log - testRadioButton Test is start
+[INFO ] 11-01-2024 17:43:50 [main] Log - testRadioButton Test is pass.
+[INFO ] 11-01-2024 17:43:50 [main] Log - testButtons Test is start
+[INFO ] 11-01-2024 17:43:50 [main] Log - testButtons Test is pass.
+[INFO ] 11-01-2024 17:43:50 [main] Log - testWebTables Test is start
+[INFO ] 11-01-2024 17:43:53 [main] Log - testWebTables Test is pass.
+[INFO ] 11-01-2024 17:43:53 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 17:43:53 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 17:43:54 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 17:43:54 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 17:43:55 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:44:36 [main] Log - Set up
+[INFO ] 11-01-2024 17:46:22 [main] Log - Set up
+[INFO ] 11-01-2024 17:54:08 [main] Log - Start testing: TestDEMOQA
+[INFO ] 11-01-2024 17:54:08 [main] Log - Set up
+[INFO ] 11-01-2024 17:54:12 [main] Log - gotoElementPage Test is start
+[ERROR] 11-01-2024 17:54:22 [main] Log - gotoElementPage Test is false.
+[INFO ] 11-01-2024 17:54:23 [main] Log - testTextBox Test is start
+[ERROR] 11-01-2024 17:54:34 [main] Log - testTextBox Test is false.
+[INFO ] 11-01-2024 17:54:35 [main] Log - testCheckBox Test is start
+[ERROR] 11-01-2024 17:54:35 [main] Log - testCheckBox Test is false.
+[INFO ] 11-01-2024 17:54:36 [main] Log - testRadioButton Test is start
+[ERROR] 11-01-2024 17:54:36 [main] Log - testRadioButton Test is false.
+[INFO ] 11-01-2024 17:54:37 [main] Log - testButtons Test is start
+[ERROR] 11-01-2024 17:54:37 [main] Log - testButtons Test is false.
+[INFO ] 11-01-2024 17:54:38 [main] Log - testWebTables Test is start
+[ERROR] 11-01-2024 17:54:38 [main] Log - testWebTables Test is false.
+[INFO ] 11-01-2024 17:54:39 [main] Log - testUploadDownload Test is start
+[ERROR] 11-01-2024 17:54:49 [main] Log - testUploadDownload Test is false.
+[INFO ] 11-01-2024 17:54:50 [main] Log - testBrokenLinks Test is start
+[ERROR] 11-01-2024 17:54:50 [main] Log - testBrokenLinks Test is false.
+[INFO ] 11-01-2024 17:54:51 [main] Log - TestDEMOQA Test is finish
+[INFO ] 11-01-2024 17:57:37 [main] Log - Set up
+[INFO ] 12-01-2024 09:05:46 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 09:05:46 [main] Log - Set up
+[INFO ] 12-01-2024 09:05:57 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 09:05:57 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 09:05:57 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 09:05:58 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 09:05:58 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 09:06:00 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 09:06:00 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 09:06:00 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 09:06:00 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 09:06:01 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 09:06:01 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 09:06:04 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 09:06:04 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 09:06:04 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 09:06:05 [main] Log - testBrokenLinks Test is start
+[ERROR] 12-01-2024 09:06:05 [main] Log - testBrokenLinks Test is false.
+[INFO ] 12-01-2024 09:06:06 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 09:26:38 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 09:26:38 [main] Log - Set up
+[INFO ] 12-01-2024 09:26:48 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 09:26:48 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 09:26:48 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 09:26:49 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 09:26:49 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 09:26:50 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 09:26:50 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 09:26:50 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 09:26:50 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 09:26:51 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 09:26:51 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 09:26:54 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 09:26:54 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 09:26:54 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 09:26:55 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 09:26:57 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 09:26:57 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 14:55:27 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 14:55:27 [main] Log - Set up
+[INFO ] 12-01-2024 14:55:32 [main] Log - gotoElementPage Test is start
+[ERROR] 12-01-2024 14:55:44 [main] Log - gotoElementPage Test is false.
+[INFO ] 12-01-2024 14:55:46 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 14:55:56 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 14:55:57 [main] Log - Set up
+[INFO ] 12-01-2024 14:56:23 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 14:56:23 [main] Log - Set up
+[INFO ] 12-01-2024 14:56:55 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 14:56:55 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 14:56:55 [main] Log - testTextBox Test is start
+[ERROR] 12-01-2024 14:56:56 [main] Log - testTextBox Test is false.
+[INFO ] 12-01-2024 14:56:57 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 14:58:16 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 14:58:22 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 14:58:22 [main] Log - Set up
+[INFO ] 12-01-2024 14:58:31 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 14:58:32 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 14:58:32 [main] Log - testTextBox Test is start
+[ERROR] 12-01-2024 14:58:33 [main] Log - testTextBox Test is false.
+[INFO ] 12-01-2024 14:58:34 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:00:32 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:00:32 [main] Log - Set up
+[INFO ] 12-01-2024 15:00:41 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:00:41 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:00:41 [main] Log - testTextBox Test is start
+[ERROR] 12-01-2024 15:00:42 [main] Log - testTextBox Test is false.
+[INFO ] 12-01-2024 15:00:43 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:02:21 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:02:21 [main] Log - Set up
+[INFO ] 12-01-2024 15:02:30 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:02:30 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:02:30 [main] Log - testTextBox Test is start
+[ERROR] 12-01-2024 15:02:30 [main] Log - testTextBox Test is false.
+[INFO ] 12-01-2024 15:02:32 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:10:07 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:10:07 [main] Log - Set up
+[INFO ] 12-01-2024 15:10:15 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:10:15 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:10:15 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 15:10:16 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 15:10:16 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:27:17 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:27:17 [main] Log - Set up
+[INFO ] 12-01-2024 15:27:26 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:27:26 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:27:26 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 15:27:27 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 15:27:27 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 15:27:28 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 15:27:28 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 15:27:29 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 15:27:29 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 15:27:30 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 15:27:30 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 15:27:33 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 15:27:33 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 15:27:33 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 15:27:34 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 15:27:37 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 15:27:37 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:28:27 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:28:27 [main] Log - Set up
+[INFO ] 12-01-2024 15:28:35 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:28:35 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:28:35 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 15:28:36 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 15:28:36 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 15:28:37 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 15:28:37 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 15:28:38 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 15:28:38 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 15:28:39 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 15:28:39 [main] Log - testWebTables Test is start
+[ERROR] 12-01-2024 15:28:41 [main] Log - testWebTables Test is false.
+[INFO ] 12-01-2024 15:28:42 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 15:28:43 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 15:28:44 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 15:28:45 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 15:28:45 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:32:08 [main] Log - Set up
+[INFO ] 12-01-2024 15:37:47 [main] Log - Set up
+[INFO ] 12-01-2024 15:43:37 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:43:37 [main] Log - Set up
+[INFO ] 12-01-2024 15:43:42 [main] Log - gotoElementPage Test is start
+[ERROR] 12-01-2024 15:43:46 [main] Log - gotoElementPage Test is false.
+[INFO ] 12-01-2024 15:43:47 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 15:43:58 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:43:58 [main] Log - Set up
+[INFO ] 12-01-2024 15:44:08 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:44:08 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:44:08 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 15:44:09 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 15:44:09 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 15:44:11 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 15:44:11 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 15:44:11 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 15:44:11 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 15:44:12 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 15:44:12 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 15:44:15 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 15:44:15 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 15:44:15 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 15:44:16 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 15:44:18 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 15:44:18 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:46:11 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:46:11 [main] Log - Set up
+[INFO ] 12-01-2024 15:46:20 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:46:20 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:46:20 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 15:46:21 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 15:46:21 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 15:46:22 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 15:46:22 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 15:46:23 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 15:46:23 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 15:46:23 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 15:46:23 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 15:46:26 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 15:46:26 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 15:46:26 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 15:46:28 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 15:46:29 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 15:46:29 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 15:50:29 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 15:50:29 [main] Log - Set up
+[INFO ] 12-01-2024 15:50:41 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 15:50:41 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 15:50:41 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 15:50:42 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 15:50:42 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 15:50:44 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 15:50:44 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 15:50:44 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 15:50:44 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 15:50:45 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 15:50:45 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 15:50:48 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 15:50:48 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 15:50:48 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 15:50:50 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 15:50:51 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 15:50:51 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 16:31:24 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 16:31:35 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 16:31:36 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 16:31:36 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 16:31:37 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 16:31:37 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 16:31:38 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 16:31:38 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 16:31:39 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 16:31:39 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 16:31:39 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 16:31:39 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 16:31:42 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 16:31:42 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 16:31:43 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 16:31:44 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 16:31:46 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 16:31:46 [main] Log - TestDEMOQA Test is finish
+[INFO ] 12-01-2024 16:33:54 [main] Log - Start testing: TestDEMOQA
+[INFO ] 12-01-2024 16:34:26 [main] Log - gotoElementPage Test is start
+[INFO ] 12-01-2024 16:34:26 [main] Log - gotoElementPage Test is pass.
+[INFO ] 12-01-2024 16:34:26 [main] Log - testTextBox Test is start
+[INFO ] 12-01-2024 16:34:27 [main] Log - testTextBox Test is pass.
+[INFO ] 12-01-2024 16:34:27 [main] Log - testCheckBox Test is start
+[INFO ] 12-01-2024 16:34:28 [main] Log - testCheckBox Test is pass.
+[INFO ] 12-01-2024 16:34:28 [main] Log - testRadioButton Test is start
+[INFO ] 12-01-2024 16:34:29 [main] Log - testRadioButton Test is pass.
+[INFO ] 12-01-2024 16:34:29 [main] Log - testButtons Test is start
+[INFO ] 12-01-2024 16:34:29 [main] Log - testButtons Test is pass.
+[INFO ] 12-01-2024 16:34:29 [main] Log - testWebTables Test is start
+[INFO ] 12-01-2024 16:34:32 [main] Log - testWebTables Test is pass.
+[INFO ] 12-01-2024 16:34:32 [main] Log - testUploadDownload Test is start
+[ERROR] 12-01-2024 16:34:33 [main] Log - testUploadDownload Test is false.
+[INFO ] 12-01-2024 16:34:34 [main] Log - testBrokenLinks Test is start
+[INFO ] 12-01-2024 16:34:36 [main] Log - testBrokenLinks Test is pass.
+[INFO ] 12-01-2024 16:34:36 [main] Log - TestDEMOQA Test is finish
