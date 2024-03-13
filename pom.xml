@@ -99,7 +99,6 @@
             <artifactId>monte-screen-recorder</artifactId>
             <version>0.7.7.0</version>
         </dependency>
-<<<<<<< HEAD
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
@@ -117,7 +116,5 @@
             <artifactId>mysql-connector-j</artifactId>
             <version>8.3.0</version>
         </dependency>
-=======
->>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
     </dependencies>
 </project>

@@ -6,7 +6,7 @@ import com.google.gson.JsonParser;
 import com.nnga.Resources;
 import com.nnga.browsers.SetupBrowsers;
 import com.nnga.utils.helpers.CaptureHelper;
-<<<<<<< HEAD
+
 import com.nnga.utils.helpers.DatabaseHelper;
 import com.nnga.utils.helpers.ExcelHelper;
 import com.nnga.utils.helpers.PropertiesHelper;
@@ -20,17 +20,17 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-=======
+
 import com.nnga.utils.helpers.ExcelHelper;
 import com.nnga.utils.helpers.PropertiesHelper;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
->>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
+
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
-<<<<<<< HEAD
+
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.io.File;
@@ -41,10 +41,10 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-=======
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
->>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
+
 
 public class TestForTask {
     private WebDriver driver;
