@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6f615aa7-dfbc-4bb3-8c69-f641ee9cac36" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/com/nnga/utils/helpers/DatabaseHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -16,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/TestForTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/TestForTask.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6f615aa7-dfbc-4bb3-8c69-f641ee9cac36" name="Changes" comment="new" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,12 +33,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+=======
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -44,8 +51,13 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
+<<<<<<< HEAD
         <option name="accountId" value="f1a86af1-421e-431a-9774-3c78bba356f1" />
         <option name="url" value="https://github.com/tnnga/DemoQATest.git" />
+=======
+        <option name="accountId" value="96378b79-7cb0-4052-8e33-3d5a7c98273c" />
+        <option name="url" value="https://github.com/tnnga/TestDemoQA.git" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
       </UrlAndAccount>
     </option>
   </component>
@@ -58,6 +70,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -80,12 +93,36 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/intern.nttnga1/IdeaProjects/TestDemoQA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/intern.nttnga1/IdeaProjects/LearnTest/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\intern.nttnga1\IdeaProjects\TestDemoQA" />
       <recent name="C:\Users\intern.nttnga1\IdeaProjects\TestDemoQA\src\test\java\File" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="TestNG.TestForTask.testSeleniumGrid">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -100,6 +137,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+=======
+  <component name="RunManager" selected="TestNG.C:/Users/intern.nttnga1/IdeaProjects/LearnTest/test.xml">
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
     <configuration name="C:/Users/intern.nttnga1/IdeaProjects/LearnTest/test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnTest" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/test.xml" />
@@ -127,7 +167,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TestForTask.testForWord" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="TestForTask.testJson" type="TestNG" temporary="true" nameIsGenerated="true">
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
       <module name="LearnTest" />
       <extension name="coverage">
         <pattern>
@@ -137,7 +181,11 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.nnga.projects.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.nnga.projects.testcases.TestForTask" />
+<<<<<<< HEAD
       <option name="METHOD_NAME" value="testForWord" />
+=======
+      <option name="METHOD_NAME" value="testJson" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,7 +193,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TestForTask.testSeleniumGrid" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="TestForTask.testPopUp" type="TestNG" temporary="true" nameIsGenerated="true">
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
       <module name="LearnTest" />
       <extension name="coverage">
         <pattern>
@@ -155,7 +207,29 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.nnga.projects.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.nnga.projects.testcases.TestForTask" />
+<<<<<<< HEAD
       <option name="METHOD_NAME" value="testSeleniumGrid" />
+=======
+      <option name="METHOD_NAME" value="testPopUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForTask.testProperties" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LearnTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nnga.projects.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.nnga.projects.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.nnga.projects.testcases.TestForTask" />
+      <option name="METHOD_NAME" value="testProperties" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -164,19 +238,34 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.Main" />
       <item itemvalue="TestNG.TestForTask.testSeleniumGrid" />
       <item itemvalue="TestNG.TestForTask.testForWord" />
       <item itemvalue="TestNG.ElementsTest" />
+=======
+      <item itemvalue="TestNG.TestForTask.testPopUp" />
+      <item itemvalue="TestNG.TestForTask.testProperties" />
+      <item itemvalue="TestNG.ElementsTest" />
+      <item itemvalue="TestNG.TestForTask.testJson" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
       <item itemvalue="TestNG.C:/Users/intern.nttnga1/IdeaProjects/LearnTest/test.xml" />
     </list>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="TestNG.TestForTask.testSeleniumGrid" />
         <item itemvalue="TestNG.TestForTask.testForWord" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.C:/Users/intern.nttnga1/IdeaProjects/LearnTest/test.xml" />
         <item itemvalue="TestNG.ElementsTest" />
+=======
+        <item itemvalue="TestNG.C:/Users/intern.nttnga1/IdeaProjects/LearnTest/test.xml" />
+        <item itemvalue="TestNG.ElementsTest" />
+        <item itemvalue="TestNG.TestForTask.testPopUp" />
+        <item itemvalue="TestNG.TestForTask.testProperties" />
+        <item itemvalue="TestNG.TestForTask.testJson" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +316,7 @@
       <option name="project" value="LOCAL" />
       <updated>1703816394660</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="Add WordHelper.java">
       <option name="closed" value="true" />
       <created>1705501809054</created>
@@ -252,6 +342,9 @@
       <updated>1705501966837</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    <option name="localTasksCounter" value="3" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,6 +358,7 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State>
               <option name="FILTERS">
                 <map>
@@ -278,6 +372,9 @@
                 </map>
               </option>
             </State>
+=======
+            <State />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
           </value>
         </entry>
       </map>
@@ -285,8 +382,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
+<<<<<<< HEAD
     <MESSAGE value="“init”" />
     <MESSAGE value="Add WordHelper.java" />
     <option name="LAST_COMMIT_MESSAGE" value="Add WordHelper.java" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
   </component>
 </project>

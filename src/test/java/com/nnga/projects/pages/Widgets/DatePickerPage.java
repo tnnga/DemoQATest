@@ -119,11 +119,19 @@ public class DatePickerPage {
                     return year;
                 }
             }
+<<<<<<< HEAD
 //            if (yearToSet < currentSelect) {
 //                yearList.getLast().click();
 //            } else {
 //                yearList.getFirst().click();
 //            }
+=======
+            if (yearToSet < currentSelect) {
+                yearList.getLast().click();
+            } else {
+                yearList.getFirst().click();
+            }
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
         }
     }
 

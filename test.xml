@@ -1,5 +1,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<<<<<<< HEAD
 <suite name="Test-Suite" tests="parallel">
+=======
+<suite name="Test-Suite" >
+>>>>>>> 88f7a60f18c591e8d4c48d9ebac41b797c51434c
     <listeners>
         <listener class-name="com.nnga.utils.listeners.ReportListener"></listener>
     </listeners>
