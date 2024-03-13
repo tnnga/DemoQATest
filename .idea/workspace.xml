@@ -4,42 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f615aa7-dfbc-4bb3-8c69-f641ee9cac36" name="Changes" comment="Add WordHelper.java">
-      <change afterPath="$PROJECT_DIR$/.idea/TestDemoQA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nnga/utils/helpers/WordHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6f615aa7-dfbc-4bb3-8c69-f641ee9cac36" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/nnga/utils/helpers/DatabaseHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/nnga/projects/pages/Widgets/DatePickerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnga/projects/pages/Widgets/DatePickerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/nnga/browsers/SetupBrowsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnga/browsers/SetupBrowsers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/nnga/projects/testcases/TestForTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/nnga/projects/testcases/TestForTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/nnga/Resources.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nnga/Resources.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/browsers/SetupBrowsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/browsers/SetupBrowsers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/AlertsFrameWindows/AlertsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/AlertsFrameWindows/AlertsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/AlertsFrameWindows/BrowserWindowsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/AlertsFrameWindows/BrowserWindowsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/AlertsFrameWindows/FramesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/AlertsFrameWindows/FramesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/BrokenLinksPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/BrokenLinksPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/ButtonsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/ButtonsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/CheckboxPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/CheckboxPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/RadioButtonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/RadioButtonPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/TextboxPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/TextboxPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/UploadDownloadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/UploadDownloadPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/WebTablesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Elements/WebTablesPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Widgets/DatePickerPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Widgets/DatePickerPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Widgets/SelectMenuPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/pages/Widgets/SelectMenuPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/AlertsFrameWindowsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/AlertsFrameWindowsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/ElementsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/ElementsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/TestForTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/TestForTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/WidgetsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/projects/testcases/WidgetsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/CaptureHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/CaptureHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/ExcelHelper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/ExcelHelper$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/ExcelHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/ExcelHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/PropertiesHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/PropertiesHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/RecordHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/helpers/RecordHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/listeners/ReportListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/listeners/ReportListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/logs/Log.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/nnga/utils/logs/Log.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +29,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -63,8 +44,8 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="96378b79-7cb0-4052-8e33-3d5a7c98273c" />
-        <option name="url" value="https://github.com/tnnga/TestDemoQA.git" />
+        <option name="accountId" value="f1a86af1-421e-431a-9774-3c78bba356f1" />
+        <option name="url" value="https://github.com/tnnga/DemoQATest.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -105,7 +86,7 @@
       <recent name="C:\Users\intern.nttnga1\IdeaProjects\TestDemoQA\src\test\java\File" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestForTask.testForWord">
+  <component name="RunManager" selected="TestNG.TestForTask.testSeleniumGrid">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="LearnTest" />
@@ -164,7 +145,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForTask.testPopUp" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestForTask.testSeleniumGrid" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LearnTest" />
       <extension name="coverage">
         <pattern>
@@ -174,7 +155,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.nnga.projects.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.nnga.projects.testcases.TestForTask" />
-      <option name="METHOD_NAME" value="testPopUp" />
+      <option name="METHOD_NAME" value="testSeleniumGrid" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -184,18 +165,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="TestNG.TestForTask.testSeleniumGrid" />
       <item itemvalue="TestNG.TestForTask.testForWord" />
-      <item itemvalue="TestNG.TestForTask.testPopUp" />
       <item itemvalue="TestNG.ElementsTest" />
       <item itemvalue="TestNG.C:/Users/intern.nttnga1/IdeaProjects/LearnTest/test.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestForTask.testSeleniumGrid" />
         <item itemvalue="TestNG.TestForTask.testForWord" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.C:/Users/intern.nttnga1/IdeaProjects/LearnTest/test.xml" />
         <item itemvalue="TestNG.ElementsTest" />
-        <item itemvalue="TestNG.TestForTask.testPopUp" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705501809054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add WordHelper.java">
+      <option name="closed" value="true" />
+      <created>1705501923365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705501923365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add WordHelper.java">
+      <option name="closed" value="true" />
+      <created>1705501966837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705501966837</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +265,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
