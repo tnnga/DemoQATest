@@ -1,4 +1,4 @@
-# selenium-example
+# Demo QA Test
 An example project of selenium using Selenium WebDriver with Java
 
 
