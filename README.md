@@ -1,5 +1,5 @@
 # Demo QA Test
-An example project of selenium using Selenium WebDriver with Java
+Automation Framework-Selenium,Java,Cucumber,TestNg & Jenkins
 
 
 ## Prerequisites ##
