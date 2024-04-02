@@ -13,5 +13,3 @@ Automation Framework-Selenium,Java,Cucumber,TestNg & Jenkins
 ```bash
 excute test.xml
 ```
-
-The result looks as following:
