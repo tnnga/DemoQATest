@@ -5,7 +5,7 @@ Developed automated test scripts using Java in IntelliJ with Selenium and the Te
 Use MySQL for data storage and integration testing
 
 ## Methods
-In these automated tests I have used a combination of Selenium WebDriver with Java Script. I have learned many methods like:
+In these automated tests I have used a combination of Selenium WebDriver with Java. I have learned many methods like:
 ```
 get()
 getTitle()
